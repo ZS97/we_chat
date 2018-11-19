@@ -1,0 +1,50 @@
+{
+	"description": "项目配置文件。",
+	"setting": {
+		"urlCheck": false,
+		"es6": false,
+		"postcss": true,
+		"minified": true,
+		"newFeature": true,
+		"nodeModules": false
+	},
+	"miniprogramRoot": "dist/",
+	"compileType": "miniprogram",
+	"appid": "wx357302d9c8aad0a4",
+	"projectname": "my-project",
+	"condition": {
+		"search": {
+			"current": -1,
+			"list": []
+		},
+		"conversation": {
+			"current": -1,
+			"list": []
+		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
+		"game": {
+			"currentL": -1,
+			"list": []
+		},
+		"miniprogram": {
+			"current": 1,
+			"list": [
+				{
+					"id": -1,
+					"name": "产品列表",
+					"pathName": "pages/goods_detail/main",
+					"query": "goods_id=129"
+				},
+				{
+					"id": 1,
+					"name": "111",
+					"pathName": "pages/goods_detail/main",
+					"query": "goods_id=38"
+				}
+			]
+		}
+	}
+}
