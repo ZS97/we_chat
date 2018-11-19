@@ -16,7 +16,7 @@ export default {
     },
     methods:{
         //获取本地数据
-        aysnc 
+        // aysnc 
     }
 }
 </script>
